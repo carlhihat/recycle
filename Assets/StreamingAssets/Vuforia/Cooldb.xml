@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="oatly_front_2" size="0.030000 0.013333" />
+    <ImageTarget name="oatly_back_6" size="0.010000 0.010000" />
+    <ImageTarget name="oatly_back_4" size="0.030000 0.028525" />
+    <ImageTarget name="oatly_back_2" size="0.030000 0.015147" />
+    <ImageTarget name="oatly_back" size="0.050000 0.075405" />
+    <ImageTarget name="trackme" size="0.050000 0.055440" />
     <ImageTarget name="car" size="0.100000 0.066588" />
     <ImageTarget name="puppy" size="0.100000 0.092267" />
   </Tracking>
